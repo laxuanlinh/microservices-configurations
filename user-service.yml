@@ -1,6 +1,9 @@
 spring:
   application:
     name: user-service
+  data:
+    rest:
+      basePath: /api
 eureka:
   client:
     serviceUrl:
