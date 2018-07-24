@@ -1,6 +1,6 @@
 spring:
   application:
-    name: user-service
+    name: dc6c93e3089d0903179b0afd1e7d56cc11c7580eed8cbc327a89c3dd7e52c848
 eureka:
   client:
     serviceUrl:
