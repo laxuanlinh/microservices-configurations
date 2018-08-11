@@ -6,7 +6,7 @@ eureka:
     preferIpAddress: true
   client:
     serviceUrl:
-      defaultZone: http://localhost:1111/eureka
+      defaultZone: http://service-registry/eureka
 server:
   port:
     8080
